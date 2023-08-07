@@ -15,4 +15,6 @@ similarly to thy Y Coord.
 
 The game restarts with 0 score if endGame.
 
-Try out the Game Below:
+Try out the Game using the URL Below:
+
+radiant-nougat-c5312b.netlify.app
